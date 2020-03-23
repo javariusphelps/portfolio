@@ -1,0 +1,28 @@
+*
+{
+	margin: 0;
+	padding: 0;
+
+}
+#particles-js{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://s1.1zoom.me/b5050/893/356688-admin_1920x1080.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.headerport{
+	text-align: center;
+	color:#D3D3D3;
+
+}
+
+.head2{
+	text-align: center; 
+	color:#D3D3D3;
+}
+
+.links{
+	color:#D3D3D3;
+}
